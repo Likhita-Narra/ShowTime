@@ -31,6 +31,26 @@ The following message will be displayed on the terminal
 
 and a webpage will be opened in your default browser.
 
+### **Functionalities**
+**Search for movies**
+
+![Screenshot (418)](https://user-images.githubusercontent.com/76270840/170885685-b54ec372-3d92-4250-a030-c1e65817b5c7.png)
+
+**Recommend similar movies based on search**
+
+![Screenshot (419)](https://user-images.githubusercontent.com/76270840/170885746-cb6d9563-05dc-4f00-923b-9fec22de90d7.png)
+
+**Filter movies**
+
+![Screenshot (420)](https://user-images.githubusercontent.com/76270840/170885818-6249b1c0-c91e-46e7-8b41-fd0f7e5f88d2.png)
+
+![Screenshot (422)](https://user-images.githubusercontent.com/76270840/170885830-1885b20a-6094-477f-bee1-cf672b8c7609.png)
+
+**Sort results**
+
+![Screenshot (421)](https://user-images.githubusercontent.com/76270840/170885871-1f1e8a2e-9230-49ff-83f0-b55d6bc81b50.png)
+
+
 ### **Credits**
 I have used the following resources to build this project:
 1. [CampusX - Movie recommender system project](https://youtu.be/1xtrIEwY_zY)
