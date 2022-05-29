@@ -25,7 +25,7 @@ Navigate to the application directory and run the following command in the termi
 > streamlit run ShowTime.py
 ```
 The following message will be displayed on the terminal
-![Screenshot](https://photos.app.goo.gl/iYXXo5oTd595LRHa6)
+![Screenshot](\Screenshot.png)
 
 
 
