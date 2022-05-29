@@ -5,6 +5,7 @@
 
 ##### Step 1: Fetching the source code:
 Method 1: Download the zip file of the code and extract the files.
+
 Method 2: Dowload git lfs from [here](https://git-lfs.github.com/) and enter the following commands in command prompt:
 ```
 > git lfs install
@@ -24,7 +25,7 @@ Navigate to the application directory and run the following command in the termi
 > streamlit run ShowTime.py
 ```
 The following message will be displayed on the terminal
-![Screenshot](Screenshot (417).png)
+![Screenshot](https://photos.app.goo.gl/iYXXo5oTd595LRHa6)
 
 
 
