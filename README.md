@@ -1,7 +1,6 @@
 # **SHOWTIME** - A movie recommendation system
 **Description**: Showtime is a movie recommender website that can recommend similar movies based on the movie searched by the user or filters set by the user
 
-
 **Website**: View the website [here](https://share.streamlit.io/likhita-narra/showtimeapp/main/ShowTime.py)
 
 ### **Setup**
